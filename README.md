@@ -1,4 +1,4 @@
-# Repositorio de la materia "Aprendizaje Automático". 
+# Repositorio de la materia "Aprendizaje Supervisado". 
 #### Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones. *Edición 2021*
 
 Integrantes:
@@ -10,7 +10,7 @@ Integrantes:
 
 
 En este repositorio se encuentran los dos notebooks correspondientes a los dos entregables de la materia:
-"Aprendizaje Automático". 
+"Aprendizaje Supervisado". 
 
 * Página web de la materia: https://sites.google.com/unc.edu.ar/diplodatos-supervisado 
 
