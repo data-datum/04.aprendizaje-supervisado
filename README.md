@@ -9,7 +9,7 @@ Integrantes:
 * Villafañe, Roxana Noelia
 
 
-En este repositorio se encuentran los dos notebooks correspondientes a los dos entregables de la materia:
+En este repositorio se encuentran los dos notebooks correspondientes a la materia:
 "Aprendizaje Supervisado". 
 
 * Página web de la materia: https://sites.google.com/unc.edu.ar/diplodatos-supervisado 
