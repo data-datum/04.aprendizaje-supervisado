@@ -28,12 +28,19 @@ En este repositorio se encuentran los dos notebooks correspondientes a la materi
 ### Modelo 1
 ---
 
+#### Random Forest con RandomizedSearchCV -> 0.80 en Kaggle
 
+(mas descripción en el notebook)
 
 ### Modelo 2
 ---
+#### GradientBoosting con SMOTE y GridSearchCV -> 0.782 en Kaggle 
 
+(más descripción en el notebook)
 
 
 ### Modelo 3
 ---
+#### Random Forest con GridSearchCV -> 0.769 en Kaggle
+
+(más descripción en el notebook)
